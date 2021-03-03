@@ -1,0 +1,81 @@
+body {
+  margin: auto 0;
+}
+.main-nav {
+  display: flex;
+  list-style: none;
+  font-size: 0.7em;
+  margin: 0;
+  background-color: rgb(76, 73, 212);
+}
+.mainpage {
+  display: flex;
+  margin-left: 30px;
+}
+.im {
+  margin-left: auto;
+  margin-right: 20%;
+  margin-top: 5%;
+}
+.imeg{
+  border-radius: 50%;
+  background-size: cover;
+  height: 250px;
+  width: 250px;
+}
+li {
+  padding: 20px;
+  padding-left: 10px;
+}
+.list{
+  padding: 0;
+}
+.nnav {
+  margin-left: auto;
+}
+.mainline{
+  display: flex;
+  margin-left: 30px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+footer {
+  background-color:rgb(76, 73, 212);
+  color: white;
+  text-align: center;
+  margin-top: auto;
+}
+.name{
+  font-size: 20px;
+
+}
+.fa {
+  padding: 15px;
+  font-size: 40px;
+  width: 10px;
+  height: 10px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 90%;
+  
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
